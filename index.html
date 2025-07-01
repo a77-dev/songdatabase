@@ -57,7 +57,7 @@
     }
 
     async function renderSongs() {
-      const response = await fetch('songs.json'); // Your GitHub-hosted JSON file
+      const response = await fetch('/songs.json'); // Your GitHub-hosted JSON file
       const db = await response.json();
       const songs = db.songs;
       container.innerHTML = '';
