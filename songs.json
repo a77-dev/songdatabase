@@ -1,0 +1,895 @@
+{
+  "songs": [
+    {
+      "title": "24 Songs",
+      "artist": "Playboi Carti",
+      "image": 15836262092,
+      "color": "#ACB3B0",
+      "value": "B",
+      "speed":1.86,
+      "pitch": 1,
+      "audio_id": 137485780095488
+    },
+    {
+      "title": "500lbs",
+      "artist": "Lil Tecca",
+      "image": 130551045253991,
+      "color": "#0C0602",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 117516258374064
+    },
+    {
+      "title": "6 v2",
+      "artist": "Test",
+      "image": 987654321,
+      "color": "#123456",
+      "value": "O",
+      "speed": 1,
+      "audio_id": 1837969890,
+      "lyrics": false
+    },
+    {
+      "title": "6second",
+      "artist": "Test",
+      "image": 11223806605,
+      "color": "#789ABC",
+      "value": "O",
+      "speed": 1,
+      "audio_id": 9083276686,
+      "lyrics": false
+    },
+    {
+      "title": "Snooze",
+      "artist": "SZA",
+      "image": 71138265783264,
+      "color": "#003656",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 90092031444301
+    },
+    {
+      "title": "Wishing Well",
+      "artist": "Juice WRLD",
+      "image": 92914848170944,
+      "color": "#fe7297",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 79294809504524
+    },
+    {
+      "title": "agenda",
+      "artist": "che",
+      "image": 116302789963371,
+      "color": "#d6601b",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 95193625324714
+    },
+    {
+      "title": "convenience",
+      "artist": "jaydes",
+      "image": 78109788088396,
+      "color": "#fe6b97",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 111297019984598
+    },
+    {
+      "title": "entry log",
+      "artist": "jaydes",
+      "image": 115708776721927,
+      "color": "#353535",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 106867678189961
+    },
+    {
+      "title": "selffocusd",
+      "artist": "evvls",
+      "image": 133928109032114,
+      "color": "#232323",
+      "value": "B",
+      "speed": 1,
+      "audio_id": 105692241265440
+    },
+    {
+      "title": "#miles",
+      "artist": "skaiwater",
+      "image": 86380693692493,
+      "color": "#192892",
+      "value": "B",
+      "speed": 3.61,
+      "pitch": 1,
+      "audio_id": 102699590112405
+    },
+    {
+      "title": "never meet your idols",
+      "artist": "jaydes",
+      "image": 107329209032568,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 113823303603518
+    },
+    {
+      "title": "patience",
+      "artist": "jaydes & Riovaz",
+      "image": 107329209032568,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 3.4,
+      "pitch": 1,
+      "audio_id": 123810559669238
+    },
+    {
+      "title": "withdrawals",
+      "artist": "OsamaSon & Nettspend",
+      "image": 103242391747740,
+      "color": "#596969",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 93013385289584
+    },
+    {
+      "title": "Slime U Out",
+      "artist": "OsamaSon",
+      "image": 103242391747740,
+      "color": "#596969",
+      "value": "B",
+      "speed": 3.91,
+      "pitch": 1,
+      "audio_id": 86477698013148
+    },
+    {
+      "title": "jeans",
+      "artist": "2hollis",
+      "image": 120589834479459,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 2.31,
+      "pitch":1,
+      "audio_id": 128453758447178
+    },
+    {
+      "title": "rose",
+      "artist": "jaydes",
+      "image": 97369466675408,
+      "color": "#ff1d65",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 91301244451595
+    },
+    {
+      "title": "fendi",
+      "artist": "jaydes",
+      "image": 107329209032568,
+      "color": "#ff1d65",
+      "value": "B",
+      "speed": 1,
+      "pitch": 0.841,
+      "audio_id": 78490578383876
+    },
+    {
+      "title": "Fool",
+      "artist": "OsamaSon",
+      "image": 77600615043060,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 3.32,
+      "pitch": 1,
+      "audio_id": 127002469930766
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "jaydes",
+      "image": 107329209032568,
+      "color": "#ff1d65",
+      "value": "B",
+      "speed": 4.14,
+      "pitch": 1,
+      "audio_id": 126526616561153
+    },
+    {
+      "title": "Nope you're too late i already died",
+      "artist": "wifiskeleton & i wanna be a jack-o-lantern",
+      "image": 80498437793704,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 104245139120351
+    },
+    {
+      "title": "HBA",
+      "artist": "Playboi Carti",
+      "image": 16863152700,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 117989746317708
+    },
+    {
+      "title": "Controlla",
+      "artist": "Drake",
+      "image": 15137290183,
+      "color": "#5f7077",
+      "value": "B",
+      "speed": 0.75,
+      "pitch": 1.25,
+      "audio_id": 117909956616086
+    },
+    {
+      "title": "FE!N",
+      "artist": "Travis Scott & Playboi Carti",
+      "image": 17332516557,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 95920869846486
+    },
+    {
+      "title": "For The Better",
+      "artist": "Rich Amiri & jaydes",
+      "image": 111735372653659,
+      "color": "#ffffff",
+      "value": "B",
+      "speed": 3.19,
+      "pitch": 1,
+      "audio_id": 89434999150072
+    },
+    {
+      "title": "damage",
+      "artist": "jaydes",
+      "image": 97369466675408,
+      "color": "#ff1d65",
+      "value": "B",
+      "speed": 1.32,
+      "pitch": 1,
+      "audio_id": 79199656868607
+    },
+    {
+      "title": "lucifers favorite color",
+      "artist": "jaydes",
+      "image": 73039173072911,
+      "color": "#946a30",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 100801267042986
+    },
+    {
+      "title": "luther",
+      "artist": "Kendrick Lamar & SZA",
+      "image": 84167952747094,
+      "color": "#ababab",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 122407611101232
+    },
+    {
+      "title": "Been knew that",
+      "artist": "Izaya Tiji",
+      "image": 74082768952173,
+      "color": "#FF6666",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 104895409082193
+    },
+    {
+      "title": "Azizam",
+      "artist": "Ed Sheeran",
+      "image": 130645226594994,
+      "color": "#FF54BB",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 78362166497512
+    },
+    {
+      "title": "back to friends",
+      "artist": "sombr",
+      "image": 113637188752509,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 87157322914360
+    },
+    {
+      "title": "Bad Dreams",
+      "artist": "Teddy Swims",
+      "image": 17465055402,
+      "color": "#FF0000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 92500837186468
+    },
+    {
+      "title": "Amen",
+      "artist": "Shaboozey & Jelly Roll",
+      "image": 18563223155,
+      "color": "#FF1829",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 104635283790441
+    },
+    {
+      "title": "Feel It",
+      "artist": "d4vd",
+      "image": 130592962736503,
+      "color": "#dc5708",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 129428848578701
+    },
+    {
+      "title": "Fix What You Didn't Break",
+      "artist": "Nate Smith",
+      "image": 122413915375121,
+      "color": "#874642",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 127223938610952
+    },
+    {
+      "title": "Happen To Me",
+      "artist": "Russell ***kerson",
+      "image": 135349501374186,
+      "color": "#272727",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 134753945963727
+    },
+    {
+      "title": "Just In Case",
+      "artist": "Morgan Wallen",
+      "image": 13622192495,
+      "color": "#46412A",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 85324972038732
+    },
+    {
+      "title": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "image": 13622192495,
+      "color": "#46412A",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 137596236693457
+    },
+    {
+      "title": "undressed",
+      "artist": "sombr",
+      "image": 113637188752509,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 125008171106768
+    },
+    {
+      "title": "Texas",
+      "artist": "Blake Shelton",
+      "image": 106792997838498,
+      "color": "#d1e4fb",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 116287723796400
+    },
+    {
+      "title": "Stargazing",
+      "artist": "Myles Smith",
+      "image": 90770160639246,
+      "color": "#0b5a98",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 83002698953238
+    },
+    {
+      "title": "Still the Same! 2",
+      "artist": "Autumn!",
+      "image": 117595233357155,
+      "color": "#0d0d01",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 130115744908458
+    },
+    {
+      "title": "tell me",
+      "artist": "jaydes",
+      "image": 98223951880048,
+      "color": "#4a5a71",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 100184101956875
+    },
+    {
+      "title": "dont worry bout me",
+      "artist": "jaydes",
+      "image": 107329209032568,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 3.74,
+      "pitch": 1,
+      "audio_id": 98594766923894
+    },
+    {
+      "title": "drankdrankdrank",
+      "artist": "Nettspend",
+      "image": 109401838482707,
+      "color": "#e0ad9a",
+      "value": "B",
+      "speed": 2.9,
+      "pitch": 1,
+      "audio_id": 74943246470667
+    },
+    {
+      "title": "i will perish",
+      "artist": "kynlary",
+      "image": 139522361589633,
+      "color": "#000000",
+      "value": "B",
+      "speed": 3.52,
+      "pitch": 1,
+      "audio_id": 121018291283894
+    },
+    {
+      "title": "AINT NOTHING",
+      "artist": "Rich Amiri",
+      "image": 103168180684798,
+      "color": "#97b2c5",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 107897187533816
+    },
+    {
+      "title": "highschool",
+      "artist": "jaydes",
+      "image": 99372853357466,
+      "color": "#948977",
+      "value": "B",
+      "speed": 3.88,
+      "pitch": 1,
+      "audio_id": 78308124481595
+    },
+    {
+      "title": "Freestyle",
+      "artist": "OsamaSon",
+      "image": 92920089483238,
+      "color": "#43333f",
+      "value": "B",
+      "speed": 3.77,
+      "pitch": 1,
+      "audio_id": 84609688753424
+    },
+    {
+      "title": "All Star",
+      "artist": "OsamaSon",
+      "image": 92920089483238,
+      "color": "#43333f",
+      "value": "B",
+      "speed": 3.43,
+      "pitch": 1,
+      "audio_id": 113240382245301
+    },
+    {
+      "title": "She Need A Ride",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 77388289686948
+    },
+    {
+      "title": "Made Sum Plans",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 83296894440046
+    },
+    {
+      "title": "Round of Applause",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 111419845302310
+    },
+    {
+      "title": "Waffle House",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 120852493877501
+    },
+    {
+      "title": "Insta",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 128402945807133
+    },
+    {
+      "title": "The Whole World is Free",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 110843072221045
+    },
+    {
+      "title": "Break Da News",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 81792857226125
+    },
+    {
+      "title": "Southside",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 89296851144203
+    },
+    {
+      "title": "Frontin",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 138476270101028
+    },
+    {
+      "title": "Jumpout",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 134820095052886
+    },
+    {
+      "title": "I Got The Fye",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 139144985340335
+    },
+    {
+      "title": "Going Dumbo",
+      "artist": "OsamaSon",
+      "image": 75628198135833,
+      "color": "#ba151f",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 103562688886640
+    },
+    {
+      "title": "what if she already knows everything",
+      "artist": "jaydes",
+      "image": 132225974834363,
+      "color": "#000000",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 104611053985982
+    },
+    {
+      "title": "Green Day",
+      "artist": "che",
+      "image": 92995839314223,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 95845490347824
+    },
+    {
+      "title": "Shut It Down",
+      "artist": "ian",
+      "image": 135689798805383,
+      "color": "#FFFFFF",
+      "value": "B",
+      "speed": 2.73,
+      "pitch": 1,
+      "audio_id": 105696311638345,
+      "lyrics_id": 22796488
+    },
+    {
+      "title": "weren't for the wind",
+      "artist": "Ella Langley",
+      "image": 107190780161109,
+      "color": "#2a3a46",
+      "value": "B",
+      "speed": 2.11,
+      "pitch": 1,
+      "audio_id": 96672497542237
+    },
+    {
+      "title": "twilight zone",
+      "artist": "Ariana Grande",
+      "image": 17201511533,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.11,
+      "pitch": 1,
+      "audio_id": 74091797933301
+    },
+    {
+      "title": "Dead First",
+      "artist": "prettifun",
+      "image": 93562692378568,
+      "color": "#06ecf7",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 134344782856910
+    },
+    {
+      "title": "Her",
+      "artist": "tdf & che",
+      "image": 95834727094628,
+      "color": "#94b2cd",
+      "value": "B",
+      "speed": 2.99,
+      "pitch": 1,
+      "audio_id": 131774536778541
+    },
+    {
+      "title": "nineteen forever",
+      "artist": "wifiskeleton",
+      "image": 136984193466084,
+      "color": "#585f4d",
+      "value": "B",
+      "speed": 3.4,
+      "pitch": 1,
+      "audio_id": 84550749548510
+    },
+    {
+      "title": "i keep calling ...",
+      "artist": "wifiskeleton & jaydes",
+      "image": 80498437793704,
+      "color": "#000000",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 101547381391118
+    },
+    {
+      "title": "my twenty first reason </3",
+      "artist": "wifiskeleton",
+      "image": 80498437793704,
+      "color": "#000000",
+      "value": "B",
+      "speed": 3.95,
+      "pitch": 1,
+      "audio_id": 97840910031316
+    },
+    {
+      "title": "Skipping Class",
+      "artist": "Nettspend",
+      "image": 18805850803,
+      "color": "#e0ad9a",
+      "value": "B",
+      "speed": 3.15,
+      "pitch": 1,
+      "audio_id": 84726698138067
+    },
+    {
+      "title": "Back 2 Da Basics",
+      "artist": "Summrs",
+      "image": 87973456760047,
+      "color": "#9e948a",
+      "value": "B",
+      "speed": 2.99,
+      "pitch": 1,
+      "audio_id": 76440064072323
+    },
+    {
+      "title": "just cant",
+      "artist": "Summrs",
+      "image": 96771998530295,
+      "color": "#ffffff",
+      "value": "B",
+      "speed": 2.93,
+      "pitch": 1,
+      "audio_id": 94867710166324
+    },
+    {
+      "title": "lie",
+      "artist": "2hollis",
+      "image": 138897475809358,
+      "color": "#9ba0aa",
+      "value": "B",
+      "speed": 2.93,
+      "pitch": 1,
+      "audio_id": 77422491684899
+    },
+    {
+      "title": "sick",
+      "artist": "jaydes",
+      "image": 108970189775239,
+      "color": "#ffffff",
+      "value": "B",
+      "speed": 3.35,
+      "pitch": 1,
+      "audio_id": 125343364489251
+    },
+    {
+      "title": "peekaboo",
+      "artist": "Kendrick Lamar",
+      "image": 84167952747094,
+      "color": "#e2e2e0",
+      "value": "B",
+      "speed": 2.68,
+      "pitch": 1,
+      "audio_id": 94916464594570
+    },
+    {
+      "title": "Goose Creek",
+      "artist": "Jace!",
+      "image": 112511199397867,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.39,
+      "pitch": 1,
+      "audio_id": 78730327267577
+    },
+    {
+      "title": "We not like you",
+      "artist": "Nettspend",
+      "image": 18805850803,
+      "color": "#e0ad9a",
+      "value": "B",
+      "speed": 3,
+      "pitch": 1,
+      "audio_id": 106948765714818
+    },
+    {
+      "title": "Pizza Time",
+      "artist": "che",
+      "image": 0,
+      "color": "#000001",
+      "value": "B",
+      "speed": 3.43,
+      "pitch": 1,
+      "audio_id": 82065383461429
+    },
+    {
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.52,
+      "pitch": 1,
+      "audio_id": 86098149525315
+    },
+    {
+      "title": "Sports car",
+      "artist": "Tate McRae",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.54,
+      "pitch": 1,
+      "audio_id": 120714779898152
+    },
+    {
+      "title": "vivienne",
+      "artist": "jaydes",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 4.14,
+      "pitch": 1,
+      "audio_id": 76967386017780
+    },
+    {
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 1.75,
+      "pitch": 1,
+      "audio_id": 128177874448858
+    },
+    {
+      "title": "kickstand",
+      "artist": "ericdoa",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 113702307364263
+    },
+    {
+      "title": "clueless",
+      "artist": "jaydes",
+      "image": 99372853357466,
+      "color": "#948977",
+      "value": "B",
+      "speed": 2,
+      "pitch": 1,
+      "audio_id": 103731907149676
+    },
+    {
+      "title": "007",
+      "artist": "Che & Specxfic",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 2.5,
+      "pitch": 1,
+      "audio_id": 104964092570020
+    },
+    {
+      "title": "yungsmiley",
+      "artist": "maajins & jaydes",
+      "image": 0,
+      "color": "#000000",
+      "value": "B",
+      "speed": 3.01,
+      "pitch": 1,
+      "audio_id": 100676676096616
+    },
+    
+  ]
+}
